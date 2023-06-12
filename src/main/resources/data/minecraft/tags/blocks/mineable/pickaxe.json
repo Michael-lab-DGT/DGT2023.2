@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "dgtmod:black_opal_ore",
+    "dgtmod:black_opal_block",
+    "dgtmod:deepslate_black_opal_ore",
+    "dgtmod:netherrack_black_opal_ore",
+    "dgtmod:endstone_black_opal_ore"
+  ]
+}
